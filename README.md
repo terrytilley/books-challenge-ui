@@ -1,10 +1,10 @@
 # Capital On tap Frontend Challenge v1
 
-This is our challenge for the front-end developer position at [@CapitalOnTap](https://github.com/CapitalOnTap).
+This is our challenge for the front-end developer position at [CapitalOnTap](https://capitalontap.com/en).
 
 You're probably already participating in our hiring process, but if you stumble here by accident, read the document to the end and if you are interested, you can start the process from here.
 
-If you are not a developer, you can have a look at our other opportunities at: https://capitalontap.com/en/careers.
+If you are not a developer, you can have a look at our other opportunities at our [carrers page](https://capitalontap.com/en/careers).
 
 ## About the challenge
 
@@ -23,18 +23,23 @@ What we expect that you learn from us:
 
 ## Considerations
 
-- We expect you to solve the challenge in 1h.
 - We won't limit your choice of tools or libraries. But make choices that suits your needs. There's no need to use a bazooka to kill an ant but the point of the challenge is to evaluate your skills.
 
 ## Instructions
 
-Consider the ficticious company "Books on Tap" that sells books online. We created a very simple api where you can query, create, update books.
+Consider the ficticious company "Books on Tap" that sells books online. We created a very simple api where you can query and create books.
+
+Api url and docs - https://bookontap.azurewebsites.net/
 
 We have built a simple project based on Create-React-App for ease of development and not having to worry about configs. Feel free to create your own project structure if you so please.
 
+You can start by cloning this repo to your machine.
+
+**Please commit code to a github repo or to this one in a separate branch with your name**
+
 ### Tasks:
 
-- Query api to retrieve books
-- Display available books
-- Use whatever frameworks you prefer
-- Be creative ✨
+- Query api to retrieve books and list them
+- When clicking in one of the listed books, should navigate to a page where it can be seen more details of the book - for example if book is available or not
+
+Extra points for creativity ✨
