@@ -12,27 +12,29 @@ This is a challenge, not a test, so feel free to try different approaches to sol
 
 What we expect to learn from you with this challenge:
 
-* Your work style.
-* How you think and solve problems.
-* How you communicate.
+- Your work style.
+- How you think and solve problems.
+- How you communicate.
 
 What we expect that you learn from us:
 
-* How we work as a team.
-* Have a close look at some of the problems we face daily.
+- How we work as a team.
+- Have a close look at some of the problems we face daily.
 
 ## Considerations
 
-* You have 1h to solve the challenge. If you think this is not enough let us know and we can arrange for more.
-* We won't limit your choice of tools or libraries. But make choices that suits your needs. There's no need to use a bazooka to kill an ant but the point of the challenge is to evaluate your skills.
+- We expect you to solve the challenge in 1h.
+- We won't limit your choice of tools or libraries. But make choices that suits your needs. There's no need to use a bazooka to kill an ant but the point of the challenge is to evaluate your skills.
 
 ## Instructions
 
-Consider the ficticious company "Books on Tap" that sells books online. We created a very simple api where you can query books available.
+Consider the ficticious company "Books on Tap" that sells books online. We created a very simple api where you can query, create, update books.
 
 We have built a simple project based on Create-React-App for ease of development and not having to worry about configs. Feel free to create your own project structure if you so please.
 
-* Query api to retrieve books
-* Display available books
-* Use whatever frameworks you prefer
-* Be creative 🤓
+### Tasks:
+
+- Query api to retrieve books
+- Display available books
+- Use whatever frameworks you prefer
+- Be creative ✨
