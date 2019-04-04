@@ -4,7 +4,7 @@ This is our challenge for the front-end developer position at [CapitalOnTap](htt
 
 You're probably already participating in our hiring process, but if you stumble here by accident, read the document to the end and if you are interested, you can start the process from here.
 
-If you are not a developer, you can have a look at our other opportunities at our [carrers page](https://capitalontap.com/en/careers).
+If you are not a developer, you can have a look at our other opportunities at our [careers page](https://capitalontap.com/en/careers).
 
 ## About the challenge
 
