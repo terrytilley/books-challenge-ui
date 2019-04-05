@@ -1,6 +1,6 @@
 # Capital On tap Frontend Challenge v1
 
-This is our challenge for the front-end developer position at [CapitalOnTap](https://capitalontap.com/en).
+This is our challenge for the front-end developer position at [Capital On Tap](https://capitalontap.com/en).
 
 You're probably already participating in our hiring process, but if you stumble here by accident, read the document to the end and if you are interested, you can start the process from here.
 
@@ -29,17 +29,19 @@ What we expect that you learn from us:
 
 Consider the ficticious company "Books on Tap" that sells books online. We created a very simple api where you can query and create books.
 
-Api url and docs - https://bookontap.azurewebsites.net/
+Api url and docs - https://booksontap.azurewebsites.net/
 
 We have built a simple project based on Create-React-App for ease of development and not having to worry about configs. Feel free to create your own project structure if you so please.
 
 You can start by cloning this repo to your machine.
 
-**Please commit code to a github repo or to this one in a separate branch with your name**
+**When you are done, please send us back the source and any other items in a zip file.**
 
 ### Tasks:
 
 - Query api to retrieve books and list them
-- When clicking in one of the listed books, should navigate to a page where it can be seen more details of the book - for example if book is available or not
+- When clicking in one of the listed books, should navigate to a page where it can be seen more details of the book - for example if book is available or not and who is the author.
+
+Feel free to build the UI however you please.
 
 Extra points for creativity ✨
