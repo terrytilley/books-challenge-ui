@@ -24,7 +24,7 @@ class Home extends Component {
       <Container>
         {!this.state.loading ? (
           <React.Fragment>
-            <h1>Home Page</h1>
+            <h1>Books</h1>
             <BookList books={this.state.books} />
           </React.Fragment>
         ) : null}

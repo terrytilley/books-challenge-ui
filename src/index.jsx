@@ -16,9 +16,11 @@ ReactDOM.render(
     <Navbar />
     <Switch>
       <Route path="/" component={HomePage} exact />
+      <Route path="/books" component={HomePage} exact />
       <Route path="/books/:id" component={BookPage} exact />
       <Route component={Notfound} />
     </Switch>
+    <footer style={{ marginTop: '5rem' }} />
   </Router>,
   document.getElementById('root')
 );

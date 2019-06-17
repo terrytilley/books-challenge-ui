@@ -5,7 +5,12 @@ import { Link } from 'react-router-dom';
 
 function AppNavbar() {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg">
+    <Navbar
+      bg="dark"
+      variant="dark"
+      expand="lg"
+      style={{ marginBottom: '3rem' }}
+    >
       <Navbar.Brand as={Link} to="/">
         Capital On Tap
       </Navbar.Brand>
